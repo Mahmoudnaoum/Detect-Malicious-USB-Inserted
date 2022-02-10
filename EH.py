@@ -51,4 +51,4 @@ while True:
                 found = 1 
                 break
         if (not found):
-            list.remove(list[i])      
+            list.remove(list[i])
